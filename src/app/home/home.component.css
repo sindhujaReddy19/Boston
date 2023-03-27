@@ -1,0 +1,33 @@
+.img12{
+  width: 400px;
+  height: 400px;
+  border-radius: 30%;
+  display: flex;
+  justify-content: center;
+}
+.h11{
+  font-weight: 900;
+  padding: 50px;
+}
+.dis{
+  padding:20px 40px;
+}
+.main1{
+  padding-top: 2%;
+}
+button{
+  background-color:rgb(12, 12, 12);
+  color: rgb(244, 240, 240);
+  border: none;
+  padding: 10px;
+  border-radius: 20px;
+  margin-left:  2%; ;
+  
+}
+.but1{
+  padding-left:10px;
+}
+.but12{
+  display: flex;
+  justify-content: center;
+}
